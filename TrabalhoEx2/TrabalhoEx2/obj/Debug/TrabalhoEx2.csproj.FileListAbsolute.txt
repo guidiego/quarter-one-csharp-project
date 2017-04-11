@@ -1,0 +1,6 @@
+c:\users\guilherme diego\documents\visual studio 2015\Projects\TrabalhoEx2\TrabalhoEx2\bin\Debug\TrabalhoEx2.exe.config
+c:\users\guilherme diego\documents\visual studio 2015\Projects\TrabalhoEx2\TrabalhoEx2\obj\Debug\TrabalhoEx2.csprojResolveAssemblyReference.cache
+c:\users\guilherme diego\documents\visual studio 2015\Projects\TrabalhoEx2\TrabalhoEx2\bin\Debug\TrabalhoEx2.exe
+c:\users\guilherme diego\documents\visual studio 2015\Projects\TrabalhoEx2\TrabalhoEx2\bin\Debug\TrabalhoEx2.pdb
+c:\users\guilherme diego\documents\visual studio 2015\Projects\TrabalhoEx2\TrabalhoEx2\obj\Debug\TrabalhoEx2.exe
+c:\users\guilherme diego\documents\visual studio 2015\Projects\TrabalhoEx2\TrabalhoEx2\obj\Debug\TrabalhoEx2.pdb

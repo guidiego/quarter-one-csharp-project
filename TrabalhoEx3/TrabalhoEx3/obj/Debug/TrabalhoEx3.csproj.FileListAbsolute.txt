@@ -1,0 +1,6 @@
+c:\users\guilherme diego\documents\visual studio 2015\Projects\TrabalhoEx3\TrabalhoEx3\bin\Debug\TrabalhoEx3.exe.config
+C:\Users\Guilherme Diego\Documents\Visual Studio 2015\Projects\TrabalhoEx3\TrabalhoEx3\obj\Debug\TrabalhoEx3.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme Diego\Documents\Visual Studio 2015\Projects\TrabalhoEx3\TrabalhoEx3\bin\Debug\TrabalhoEx3.exe
+C:\Users\Guilherme Diego\Documents\Visual Studio 2015\Projects\TrabalhoEx3\TrabalhoEx3\bin\Debug\TrabalhoEx3.pdb
+C:\Users\Guilherme Diego\Documents\Visual Studio 2015\Projects\TrabalhoEx3\TrabalhoEx3\obj\Debug\TrabalhoEx3.exe
+C:\Users\Guilherme Diego\Documents\Visual Studio 2015\Projects\TrabalhoEx3\TrabalhoEx3\obj\Debug\TrabalhoEx3.pdb
